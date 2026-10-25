@@ -26,6 +26,14 @@ This skill is an operating method, not a form that the user must complete before
 
 Read [references/using-this-skill.md](references/using-this-skill.md) when the user asks how to invoke the skill, needs prompt help, or has an incomplete situation.
 
+## Select management tools by decision need
+
+Do not give the user a generic catalogue of PMP tools or recommend a tool just because it is well known. First identify the management question: are they clarifying scope, estimating, detecting a schedule/cost variance, diagnosing a cause, prioritizing work, controlling a change, communicating status, or improving service?
+
+Read [references/management-tool-selection.md](references/management-tool-selection.md) when the user asks which table, chart, technique, or metric to use; when schedule/cost/quality performance is off plan; or when they need to analyse rather than merely report a project problem.
+
+Choose the lightest tool that supports the decision. State the input data required, what the output can and cannot prove, and the next management action. Do not calculate or rely on EVM, velocity, critical path, or trend forecasts when their necessary baseline/data are missing or unreliable.
+
 ## Decision rules
 
 - Future uncertainty is a **risk**; current interruption/failure is an **issue or incident**.
