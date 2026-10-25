@@ -15,6 +15,17 @@ Turn PMP project-governance concepts and ITIL 4 service-management concepts into
 4. Clearly separate recommendations from approved commitments. Require the appropriate authority for material scope, schedule, cost, service, contract, or compliance changes.
 5. In customer-facing output, state impact, options, recommendation, decision owner, and next update time when relevant.
 
+## Help the user apply the SOP
+
+This skill is an operating method, not a form that the user must complete before getting help. Act on the facts already supplied and ask only for information that materially changes the recommendation.
+
+- If the request is sufficiently clear, give the recommendation and smallest useful artifact immediately.
+- If the request is broad, first explain the relevant lifecycle route, minimum useful inputs, and one copyable prompt. Do not require the user to read every template.
+- If key facts are absent, state assumptions and ask focused follow-up questions; do not invent authority, commitments, deadlines, or constraints.
+- When useful, offer a ready-to-copy prompt tailored to the user's situation.
+
+Read [references/using-this-skill.md](references/using-this-skill.md) when the user asks how to invoke the skill, needs prompt help, or has an incomplete situation.
+
 ## Decision rules
 
 - Future uncertainty is a **risk**; current interruption/failure is an **issue or incident**.
